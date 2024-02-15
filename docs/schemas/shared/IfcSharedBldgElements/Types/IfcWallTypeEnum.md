@@ -54,7 +54,7 @@ A stud wall framed with studs and faced with sheetings, sidings, wallboard, or p
 ### RETAININGWALL
 A supporting wall used to protect against soil layers behind. Special types of a retaining wall may be e.g. Gabion wall and Grib wall. Examples of retaining walls are wing wall, headwall, stem wall, pierwall and protecting wall.
 
-### WAVEWALL
+### SEAWALL (CROWN WALL)
 Protective wall or screen to block overtopping and impact of waves across a breakwater
 
 ### USERDEFINED
